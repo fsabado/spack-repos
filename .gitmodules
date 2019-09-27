@@ -1,0 +1,4 @@
+[submodule "fsabado-repo"]
+	path = fsabado-repo
+	url = git@github.com:fsabado/spack-repo.git
+	branch = master
